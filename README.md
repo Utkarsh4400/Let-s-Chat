@@ -1,4 +1,4 @@
-# Let-s-Chat
+# Lets-Chat
 Chat application
 Features:
 1.Real-time Messaging: Send and receive messages instantly within the chat room.
